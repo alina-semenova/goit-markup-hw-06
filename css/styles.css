@@ -92,6 +92,7 @@ img {
 
 .header-list {
   display: none;
+  gap: 40px;
 }
 
 .header-item {
